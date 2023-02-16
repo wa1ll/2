@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b76be78d-d2b3-47d8-801a-d8d4602c827a": {
+      "ProjectGuid": "b76be78d-d2b3-47d8-801a-d8d4602c827a",
+      "DisplayName": "MathTaskClassLibrary",
+      "ColorIndex": 0
+    },
+    "2bdd32bd-251c-411d-ac18-3662eb7a4107": {
+      "ProjectGuid": "2bdd32bd-251c-411d-ac18-3662eb7a4107",
+      "DisplayName": "MathTaskClassLibraryTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
